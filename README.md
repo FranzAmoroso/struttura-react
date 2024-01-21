@@ -6,7 +6,7 @@
     - `index.css`:Questo file di stile è spesso associato al file index.html della applicazione.Sono presenti regole di stile che si applicano globalmente a tutti gli elementi dell'app.
     - `asset/`:Alcuni progetti possono utilizzare una directory assets all'interno della directory src per organizzare file di asset, come immagini, font, stili CSS, e altro. Questi file potrebbero essere importati nei componenti React secondo le necessità.
 -  `public/`: Contiene file statici e l'HTML principale dell'applicazione.
-    - `index.html`: il file principale che funga da modello per l'applicazione.
+- `index.html`: il file principale che funga da modello per l'applicazione.
 -  `node_modules/`: Contiene le dipendenze del progetto installare tramite npm. 
 -   `package.json`: Il file di configurazione del progetto che contiene informazioni sulle dipendenze, gli script di build, i comandi di avvio e altro .
 - `vite.config.js`: Questo file contiene la configurazione specifica di Vite per il progetto. Puoi personalizzare le opzioni di Vite, come le impostazioni di sviluppo e produzione. Le alias di importazione e altro ancora.
